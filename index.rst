@@ -10,8 +10,8 @@ Welcome to E-commerce project using Java!
    :maxdepth: 2
    :numbered:
    
-   gaya.md
-   gaya.md
+   gaya3.md
+   gaya3.md
    
    
 
